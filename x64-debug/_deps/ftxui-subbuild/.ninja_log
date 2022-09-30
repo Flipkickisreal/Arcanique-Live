@@ -1,0 +1,37 @@
+# ninja log v5
+1	65	6855819453444512	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	b3d9ad4c51da7e2b
+1	65	6855819453444512	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	b3d9ad4c51da7e2b
+66	11418	6855819566966435	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	a8a3664fa12443a
+126	184	6857536105488194	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	f7940b4cdd9bb4c4
+415	496	6857536108615132	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete	e901e15b9b0bec83
+66	11418	6855819566966435	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	a8a3664fa12443a
+0	126	0	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	77ae885616f9759a
+241	303	6857536106685746	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	a83042dc0b413e5
+0	126	0	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	77ae885616f9759a
+126	184	6857536105488194	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	f7940b4cdd9bb4c4
+415	496	6857536108615132	CMakeFiles/ftxui-populate-complete	e901e15b9b0bec83
+185	241	6857536106065950	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	1bd1724675330374
+185	241	6857536106065950	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	1bd1724675330374
+241	303	6857536106685746	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	a83042dc0b413e5
+415	496	6857536108615132	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	e901e15b9b0bec83
+303	359	6857536107265566	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	2776ad26b71190b8
+303	359	6857536107265566	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	2776ad26b71190b8
+359	415	6857536107825383	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	d6cb09fbe29ee53b
+359	415	6857536107825383	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	d6cb09fbe29ee53b
+415	496	6857536108615132	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	e901e15b9b0bec83
+0	185	0	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	77ae885616f9759a
+0	185	0	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	77ae885616f9759a
+185	294	6857545454188600	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	f7940b4cdd9bb4c4
+185	294	6857545454188600	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	f7940b4cdd9bb4c4
+294	477	6857545455678119	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	1bd1724675330374
+294	477	6857545455678119	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	1bd1724675330374
+478	564	6857545456947712	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	a83042dc0b413e5
+478	564	6857545456947712	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	a83042dc0b413e5
+564	657	6857545457847425	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	2776ad26b71190b8
+564	657	6857545457847425	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	2776ad26b71190b8
+658	727	6857545458557195	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	d6cb09fbe29ee53b
+658	727	6857545458557195	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	d6cb09fbe29ee53b
+727	818	6857545459476901	CMakeFiles/ftxui-populate-complete	e901e15b9b0bec83
+727	818	6857545459476901	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	e901e15b9b0bec83
+727	818	6857545459476901	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete	e901e15b9b0bec83
+727	818	6857545459476901	X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	e901e15b9b0bec83

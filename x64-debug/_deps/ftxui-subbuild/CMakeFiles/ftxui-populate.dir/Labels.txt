@@ -1,0 +1,14 @@
+# Target labels
+ ftxui-populate
+# Source files and their labels
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch.rule
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule
+X:/Code Junk/Arcaniquev0_dev/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update.rule
